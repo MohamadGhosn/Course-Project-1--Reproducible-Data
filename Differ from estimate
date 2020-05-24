@@ -1,0 +1,4 @@
+rmediandiff <- rmediantotal - rmedian
+rmediandiff
+rmeandiff <- rmeantotal - rmean
+rmeandiff
