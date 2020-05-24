@@ -1,0 +1,2 @@
+NATotal <- sum(!complete.cases(data))
+NATotal
