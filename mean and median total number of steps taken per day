@@ -1,0 +1,4 @@
+rmeantotal <- mean(StepsTotalUnion$steps)
+rmeantotal
+rmediantotal <- median(StepsTotalUnion$steps)
+rmediantotal
